@@ -1,6 +1,4 @@
-# Independent-Study
-
-# **📌 Bitcoin Price Prediction with Sentiment Analysis**
+# **Bitcoin Price Prediction with Sentiment Analysis**
 *Exploring the Impact of Social Media Sentiment on Bitcoin Price Movements*
 
 
